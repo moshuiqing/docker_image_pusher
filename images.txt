@@ -1,3 +1,4 @@
 nginx
 mysql:8.0.26
 emqx/emqx-enterprise:5.7.0
+tdengine/tdengine:latest
